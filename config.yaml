@@ -1,0 +1,18 @@
+app:
+  debug: true
+
+browser:
+  headless: false
+  stealth: true
+  user_data: "./chrome_data"
+
+linkedin:
+  username: ""
+  password: ""
+
+database:
+  path: "linkedin.db"
+
+limits:
+  daily_connections: 20
+  daily_messages: 20

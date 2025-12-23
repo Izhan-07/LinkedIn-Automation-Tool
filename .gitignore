@@ -1,0 +1,23 @@
+# Binaries
+*.exe
+*.dll
+
+# Logs
+*.log
+app.log
+
+# Database
+*.db
+*.sqlite
+
+# Secrets & State
+cookies.json
+chrome_data/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
